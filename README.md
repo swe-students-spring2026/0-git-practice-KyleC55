@@ -1,4 +1,4 @@
-# Article
+# Article:
 **[Advice for Computer Science College Students](https://www.joelonsoftware.com/2005/01/02/advice-for-computer-science-college-students/)**
 
 **Author** *Joel Spolsky* 
